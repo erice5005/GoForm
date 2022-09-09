@@ -1,0 +1,8 @@
+github.com/erice5005/autowebhook v0.0.0-20220906201955-5f9bff0b121f h1:yUROOK7ud7G+vDeyr8R0+CwNnKSjhMr3NcIaGHQjoU0=
+github.com/erice5005/autowebhook v0.0.0-20220906201955-5f9bff0b121f/go.mod h1:6+8leFoM4W4BveUDHmfIq8SIrraGvl0vYF7Y0hltjCE=
+github.com/erice5005/autowebhook v0.0.0-20220907151957-e7e980f94fad h1:C3r0mqQ82eZyAAvd8+VF2hL5/SBwklUI54/wtyXbpLE=
+github.com/erice5005/autowebhook v0.0.0-20220907151957-e7e980f94fad/go.mod h1:6+8leFoM4W4BveUDHmfIq8SIrraGvl0vYF7Y0hltjCE=
+github.com/erice5005/autowebhook v0.0.0-20220907152340-db268d787005 h1:ofpDFcrVlCzoWb6tqYJ4TrkeXN0y5Qpyxcg1D3kgi9k=
+github.com/erice5005/autowebhook v0.0.0-20220907152340-db268d787005/go.mod h1:6+8leFoM4W4BveUDHmfIq8SIrraGvl0vYF7Y0hltjCE=
+github.com/gorilla/mux v1.8.0 h1:i40aqfkR1h2SlN9hojwV5ZA91wcXFOvkdNIeFDP5koI=
+github.com/gorilla/mux v1.8.0/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
